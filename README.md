@@ -91,11 +91,12 @@ NEXT_PUBLIC_WEB3_FORM_ACCESS_KEY=your-web3forms-access-key
 NEXT_PUBLIC_GOOGLE_SHEET_URL=your-google-script-webapp-url
 ```
 
-### 3. Run the Development Server (For Public Deployment 
+### 3. Run the Development Server
 ```bash
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) to see your new portfolio!
+
 Note: This is local server, For Public Deployment  [CLICK HERE](https://github.com/Apurva130401/nextjs-portfolio-template/blob/main/README.md#-deployment) or scroll down )
 
 ## 📊 Google Sheets Setup (Free Database)
