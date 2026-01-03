@@ -91,7 +91,7 @@ NEXT_PUBLIC_WEB3_FORM_ACCESS_KEY=your-web3forms-access-key
 NEXT_PUBLIC_GOOGLE_SHEET_URL=your-google-script-webapp-url
 ```
 
-### 3. Run the Development Server
+### 3. Run the Development Server (For Public Deployment [CLICK HERE](https://github.com/Apurva130401/nextjs-portfolio-template/blob/main/README.md#-deployment) )
 ```bash
 npm run dev
 ```
