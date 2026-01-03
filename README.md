@@ -1,4 +1,4 @@
-# Apurva Mishra - Professional Portfolio & Agency Template
+# Professional Portfolio & Agency Template
 
 <div align="center">
   <br />
