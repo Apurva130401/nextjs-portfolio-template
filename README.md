@@ -101,13 +101,13 @@ Note: This is local server, For Public Deployment  [CLICK HERE](https://github.c
 
 ## 📊 Google Sheets Setup (Free Database)
 1.  Create a new Google Sheet.
-2.  Go to **Extensions > Apps Script**.
-3.  Columns to add (according to the code below, you can change as per your wish)
+2.  Columns to add (according to the code below, you can change as per your wish)
     ```
          A1        B1       C1       D1          E1          F1                 G1               H1
     Created At	  Name	  Email	  Business	   Service	 Project Budget	  Project Timeline	  Description
      ```
-5.  Paste the following code:
+3.  Go to **Extensions > Apps Script**
+4.  Paste the following code:
     ```javascript
     function doPost(e) {
       const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
@@ -116,9 +116,9 @@ Note: This is local server, For Public Deployment  [CLICK HERE](https://github.c
       return ContentService.createTextOutput(JSON.stringify({result:"success"})).setMimeType(ContentService.MimeType.JSON);
     }
     ```
-6.  **Deploy > New Deployment > Web App**.
-7.  Set **Who has access** to **Anyone**.
-8.  Copy the URL and paste it into your `.env.local` file.
+5.  **Deploy > New Deployment > Web App**.
+6.  Set **Who has access** to **Anyone**.
+7.  Copy the URL and paste it into your `.env.local` file.
 
 ## 🚀 Deployment
 
