@@ -1,4 +1,4 @@
-# Professional Portfolio & Agency Template
+# Professional Portfolio Template with Leads Capture
 
 <div align="center">
   <br />
