@@ -140,6 +140,11 @@ You are free to:
 -   **Attribution** — You must give appropriate credit.
 -   **NonCommercial** — You may NOT use the material for commercial purposes (e.g., selling this template or using it to build client sites for a fee).
 
+## ⚠️ Issues
+
+For any issues or queries related to codebase or how to change stuffs, kindly raise a ticket in [Issues](https://github.com/Apurva130401/nextjs-portfolio-template/issues)
+Issues will be addressed within 24hrs window.
+
 *Created by [Apurva Mishra](https://twitter.com/apurvamishra)*
 
 
