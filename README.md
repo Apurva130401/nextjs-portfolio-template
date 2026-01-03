@@ -7,13 +7,13 @@ A high-performance, aesthetically crafted portfolio website built for developers
 ## ✨ Key Features
 
 ### 🎨 Cinematic & Premium Design
-![Cinematic Design](https://github.com/apurva130401/apurva-mishra/raw/main/public/screenshots/hero-design.png)
+![Cinematic Design](./public/screenshots/hero-design.png)
 -   **Glassmorphism Layouts**: Modern, frosted-glass UI elements that provide depth and sophistication.
 -   **Smooth Animations**: Seamless page transitions and micro-interactions powered by `framer-motion`.
 -   **Responsive Mobile-First**: Flawless experience across all devices, from ultra-wide monitors to mobile phones.
 
 ### 💼 Professional Inquiry System
-![Hire Me Page](https://github.com/apurva130401/apurva-mishra/raw/main/public/screenshots/inquiry-form.png)
+![Hire Me Page](./public/screenshots/inquiry-form.png)
 -   **Distraction-Free "Hire Me" Page**: A dedicated conversion funnel designed to capture high-quality leads.
 -   **Smart Form Validation**: Real-time feedback ensures clients provide necessary details (Budget, Timeline, etc.).
 -   **State Management**: Professional button states ("Sending...", "Success") with a polished confetti celebration on completion.
@@ -25,7 +25,7 @@ A high-performance, aesthetically crafted portfolio website built for developers
 -   **Smart "Copy-to-Clipboard"**: The email button detects if a user can't open a mail client and automatically copies your address to their clipboard with visual feedback.
 
 ### 🖱️ Advanced Interactions
-![Command Palette](https://github.com/apurva130401/apurva-mishra/raw/main/public/screenshots/command-palette.png)
+![Command Palette](./public/screenshots/command-palette.png)
 -   **Immersive Command Center**: Replaces the standard browser context menu with a custom interface.
     -   **Desktop**: Right-click to trigger a stunning, glassmorphic command palette.
     -   **Mobile/Tablet**: Long-press to reveal the same premium experience.
