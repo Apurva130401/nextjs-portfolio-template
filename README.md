@@ -142,9 +142,9 @@ You are free to:
 
 ## ⚠️ Issues
 
-For any issues or queries related to codebase or how to change stuffs, kindly raise a ticket in [𝙄𝙨𝙨𝙪𝙚𝙨](https://github.com/Apurva130401/nextjs-portfolio-template/issues)
+For specific questions regarding the codebase or guidance on modifications, please submit a request via the [𝙄𝙨𝙨𝙪𝙚𝙨](https://github.com/Apurva130401/nextjs-portfolio-template/issues) tab
 
-Issues will be addressed within 24hrs window.
+All tickets will be addressed within 24 hours.
 
 *Created by [Apurva Mishra](https://twitter.com/apurvamishra)*
 
