@@ -152,7 +152,7 @@ If you found this template helpful, please consider giving it a ⭐ star!
     <img src="https://img.shields.io/github/followers/apurva130401?style=social" alt="GitHub Follow">
   </a>
   &nbsp;
-  <a href="https://twitter.com/apurvamishra">
+  <a href="https://twitter.com/apurva_1304">
     <img src="https://img.shields.io/twitter/follow/apurvamishra?style=social" alt="Twitter Follow">
   </a>
   &nbsp;
