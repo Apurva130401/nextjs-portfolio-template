@@ -100,7 +100,12 @@ Open [http://localhost:3000](http://localhost:3000) to see your new portfolio!
 ## 📊 Google Sheets Setup (Free Database)
 1.  Create a new Google Sheet.
 2.  Go to **Extensions > Apps Script**.
-3.  Paste the following code:
+3.  Columns to add (according to the code below, you can change as per your wish)
+    ```
+         A1        B1       C1       D1          E1          F1                 G1               H1
+    Created At	  Name	  Email	  Business	   Service	 Project Budget	  Project Timeline	  Description
+     ```
+5.  Paste the following code:
     ```javascript
     function doPost(e) {
       const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
@@ -109,9 +114,9 @@ Open [http://localhost:3000](http://localhost:3000) to see your new portfolio!
       return ContentService.createTextOutput(JSON.stringify({result:"success"})).setMimeType(ContentService.MimeType.JSON);
     }
     ```
-4.  **Deploy > New Deployment > Web App**.
-5.  Set **Who has access** to **Anyone**.
-6.  Copy the URL and paste it into your `.env.local` file.
+6.  **Deploy > New Deployment > Web App**.
+7.  Set **Who has access** to **Anyone**.
+8.  Copy the URL and paste it into your `.env.local` file.
 
 ## 🎨 Customization
 
