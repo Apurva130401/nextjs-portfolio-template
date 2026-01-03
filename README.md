@@ -1,6 +1,6 @@
 # Apurva Mishra - Professional Portfolio & Agency Template
 
-![Portfolio Live Preview](https://apurva-mishra.syncflo.xyz)
+[Portfolio Live Preview](https://apurva-mishra.syncflo.xyz)
 
 A high-performance, aesthetically crafted portfolio website built for developers, agencies, and consultants. Designed to convert visitors into clients with a seamless inquiry flow and premium animations.
 
