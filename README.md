@@ -141,3 +141,27 @@ You are free to:
 -   **NonCommercial** — You may NOT use the material for commercial purposes (e.g., selling this template or using it to build client sites for a fee).
 
 *Created by [Apurva Mishra](https://twitter.com/apurvamishra)*
+
+
+## 🤝 Support & Connect
+
+If you found this template helpful, please consider giving it a ⭐ star!
+
+<div align="center">
+  <a href="https://github.com/apurva130401">
+    <img src="https://img.shields.io/github/followers/apurva130401?style=social" alt="GitHub Follow">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/apurvamishra">
+    <img src="https://img.shields.io/twitter/follow/apurvamishra?style=social" alt="Twitter Follow">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Apurva130401/nextjs-portfolio-template">
+    <img src="https://img.shields.io/github/stars/Apurva130401/nextjs-portfolio-template?style=social" alt="GitHub Repo stars">
+  </a>
+  <br />
+  <br />
+  <a href="https://www.buymeacoffee.com/apurvamishra" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="145">
+  </a>
+</div>
