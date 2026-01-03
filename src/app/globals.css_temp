@@ -1,0 +1,5 @@
+/* Wireframe Mode - debugging visualization */
+.wireframe-mode * {
+  outline: 1px solid rgba(249, 115, 22, 0.3) !important; /* Orange-500 with opacity */
+  background-color: rgba(249, 115, 22, 0.02) !important;
+}
