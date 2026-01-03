@@ -118,6 +118,20 @@ Open [http://localhost:3000](http://localhost:3000) to see your new portfolio!
 7.  Set **Who has access** to **Anyone**.
 8.  Copy the URL and paste it into your `.env.local` file.
 
+## 🚀 Deployment
+
+The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+1.  Push your code to a GitHub repository.
+2.  Go to **Vercel** and sign up with GitHub.
+3.  Click **"Add New Project"** and import your repository.
+4.  **Environment Variables:**
+    -   Go to **Settings > Environment Variables** on your Vercel dashboard.
+    -   Add `NEXT_PUBLIC_WEB3_FORM_ACCESS_KEY` and `NEXT_PUBLIC_GOOGLE_SHEET_URL`.
+5.  Click **Deploy**.
+
+Your site is now live! 🌐
+
 ## 🎨 Customization
 
 ### 1. Personal Information & SEO
